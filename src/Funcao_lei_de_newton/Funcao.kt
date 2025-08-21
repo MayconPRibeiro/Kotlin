@@ -1,4 +1,4 @@
-
+package Funcao_lei_de_newton
 /*
 
 1- Criamos a fun MAIN que é uma função principal para o nosso sistema
