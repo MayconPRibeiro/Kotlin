@@ -1,4 +1,4 @@
-package Exercicios_e_lista
+package exerciciosLista
 
 fun main(){
     print("Olá, digite seu nome: ")
